@@ -2,11 +2,8 @@
   "name": "react-ts-shopping-cart",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://championstr23.github.io/react-ts-shopping-cart/",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
