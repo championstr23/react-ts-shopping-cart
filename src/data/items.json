@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Italian Model 1",
+        "price": 55.000,
+        "imgUrl": "../public/images/c1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Italian Model 2",
+        "price": 55.000,
+        "imgUrl": "../public/images/c2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Italian Model 3",
+        "price": 55.000,
+        "imgUrl": "../public/images/c3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Italian Model 4",
+        "price": 55.000,
+        "imgUrl": "../public/images/c4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Italian Model 5",
+        "price": 55.000,
+        "imgUrl": "../public/images/c5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Italian Model 6",
+        "price": 55.000,
+        "imgUrl": "../public/images/c6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Italian Model 7",
+        "price": 55.000,
+        "imgUrl": "../public/images/c7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Italian Model 8",
+        "price": 55.000,
+        "imgUrl": "../public/images/c8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Italian Model 9",
+        "price": 55.000,
+        "imgUrl": "../public/images/c9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Italian Model 10",
+        "price": 55.000,
+        "imgUrl": "../public/images/c10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Italian Model 11",
+        "price": 55.000,
+        "imgUrl": "../public/images/c11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Italian Model 12",
+        "price": 55.000,
+        "imgUrl": "../public/images/c12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Italian Model 13",
+        "price": 55.000,
+        "imgUrl": "../public/images/c13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Italian Model 14",
+        "price": 55.000,
+        "imgUrl": "../public/images/c14.jpg"
+    }
+]
